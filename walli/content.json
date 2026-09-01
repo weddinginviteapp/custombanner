@@ -1,0 +1,34 @@
+[
+  {
+    "banner": "images/Banner_1.png",
+    "icon": "images/Icon_1.png",
+    "title": "Your Screen, Your Style",
+    "desc": "Find beautiful wallpapers that match your mood and personality.",
+    "buttonName": "Find Your Style",
+    "link": "https://1516.mark.qureka.com/intro/question"
+  },
+  {
+    "banner": "images/Banner_2.png",
+    "icon": "images/Icon_1.png",
+    "title": "A Fresh Look Every Days",
+    "desc": "Discover new wallpapers and give your screen a fresh new vibe.",
+    "buttonName": "Discover Now",
+    "link": "https://1516.mark.qureka.com/intro/question"
+  },
+  {
+    "banner": "images/Banner_3.png",
+    "icon": "images/Icon_1.png",
+    "title": "Turn Your Screen Into Art",
+    "desc": "Explore colorful, creative wallpapers designed to inspire every glance.",
+    "buttonName": "Explore Now",
+    "link": "https://1516.mark.qureka.com/intro/question"
+  },
+  {
+    "banner": "images/Banner_4.png",
+    "icon": "images/Icon_1.png",
+    "title": "Beautiful Wallpapers. Smarter.",
+    "desc": "Enjoy stunning AI-generated designs in crisp, high-quality detail.",
+    "buttonName": "Find Your Style",
+    "link": "https://1516.mark.qureka.com/intro/question"
+  }
+]
